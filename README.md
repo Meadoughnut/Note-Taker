@@ -15,26 +15,32 @@
 The Note Taker App is a web-based application designed to help users manage and organize their notes effectively. Whether you're a small business owner, a student, or anyone needing to jot down thoughts and tasks, this app provides a user-friendly interface for creating, saving, and retrieving notes.
 
 ## Screenshots
-![Placeholder for screenshot](placeholder.png)
+![Placeholder for screenshot](/public/assets/frontpage.png)
+![Placeholder for screenshot](/public/assets/secondpage.png)
 
 ## Deployment
-The application is deployed and accessible at: [Deployment Link](#)
+The application is deployed and accessible at: [Deployment Link](#https://meadoughnut.github.io/Note-Taker/)
 
 ## Installation
 To install the Note Taker App locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/note-taker-app.git
+   git clone https://github.com/Meadoughnut/Note-Taker.git
    ```
 2. Navigate to the project directory:
    ```
-   cd note-taker-app
+   cd Note-Taker
    ```
 3. Install dependencies:
    ```
    npm install
    ```
+4. Run:
+   ```
+   node server.js
+   ```
+
 
 
 ## Technologies Used
