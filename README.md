@@ -19,7 +19,7 @@ The Note Taker App is a web-based application designed to help users manage and 
 ![Placeholder for screenshot](/public/assets/secondpage.png)
 
 ## Deployment
-The application is deployed and accessible at: [Deployment Link](#https://meadoughnut.github.io/Note-Taker/)
+The application is deployed and accessible at: [Deployment Link](https://meadoughnut.github.io/Note-Taker/)
 
 ## Installation
 To install the Note Taker App locally, follow these steps:
